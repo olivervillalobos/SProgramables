@@ -18,7 +18,7 @@
 
 ---
 
-### :necktie: Datos del asesor de la materia
+### :necktie: Datos del alumno
 
 * Nombre: Oliver Villalobos Becerril.
 * Licenciatura: Ingenieria en Sistemas Computacionales.
