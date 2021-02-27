@@ -30,3 +30,4 @@
 
 1. :book: [C0.1_IntegrarEquiposDeTrabajo_VillalobosBecerrilOliver.md](C0.1_IntegrarEquiposDeTrabajo_VillalobosBecerrilOliver.md).
 2. :book: [C1.1 CuestionarioElectrónicaBásicaYsusElementos_VillalobosBecerrilOliver.md](C1.1%20CuestionarioElectrónicaBásicaYsusElementos_VillalobosBecerrilOliver.md).
+3. :book: [C1.2_Circuito_electrónico_básico_VillalobosOliver.md](C1.2_Circuito_electrónico_básico_VillalobosOliver.md).
