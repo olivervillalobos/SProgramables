@@ -28,6 +28,7 @@
 
 ### :books: Contenido
 
-1. :book: [C0.1_IntegrarEquiposDeTrabajo_VillalobosBecerrilOliver.md](C0.1_IntegrarEquiposDeTrabajo_VillalobosBecerrilOliver.md).
-2. :book: [C1.1 CuestionarioElectrónicaBásicaYsusElementos_VillalobosBecerrilOliver.md](C1.1%20CuestionarioElectrónicaBásicaYsusElementos_VillalobosBecerrilOliver.md).
-3. :book: [C1.2_Circuito_electrónico_básico_VillalobosOliver.md](C1.2_Circuito_electrónico_básico_VillalobosOliver.md).
+1. :book: [C0.1 Integrar Equipos De Trabajo](C0.1_IntegrarEquiposDeTrabajo_VillalobosBecerrilOliver.md).
+2. :book: [C1.1 Cuestionario Electrónica Básica Y sus Elementos](C1.1%20CuestionarioElectrónicaBásicaYsusElementos_VillalobosBecerrilOliver.md).
+3. :book: [C1.2 Circuito electrónico básico](C1.2_Circuito_electrónico_básico_VillalobosOliver.md).
+4. :book: [C1.3 Circuito Divisor Voltaje](C1.3_CircuitoDivisorVoltaje_VillalobosOliver.md).
