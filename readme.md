@@ -32,3 +32,4 @@
 2. :book: [C1.1 Cuestionario Electrónica Básica Y sus Elementos](C1.1%20CuestionarioElectrónicaBásicaYsusElementos_VillalobosBecerrilOliver.md).
 3. :book: [C1.2 Circuito electrónico básico](C1.2_Circuito_electrónico_básico_VillalobosOliver.md).
 4. :book: [C1.3 Circuito Divisor Voltaje](C1.3_CircuitoDivisorVoltaje_VillalobosOliver.md).
+5. :fire: [A1.2 Sensor Fotoresistivo](A1.2_OliverVillalobos_DytechWolf.md)
