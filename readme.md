@@ -34,3 +34,4 @@
 4. :book: [C1.3 Circuito Divisor Voltaje](C1.3_CircuitoDivisorVoltaje_VillalobosOliver.md).
 5. :fire: [A1.2 Sensor Fotoresistivo](A1.2_OliverVillalobos_DytechWolf.md).
 6. :book: [C1.4 Acondicionador de señal AmOP](C1.4_AcondicionadordesenalAmOP_VillalobosOliver.md).
+7. :book: [C1.5 Tipos de sensores](C1.5_Tipos_de_sensores_VillalobosOliver.md)
