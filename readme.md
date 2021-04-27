@@ -41,3 +41,4 @@
 ---
 #### Unidad 2:
 1. :book: [C2.1 Actuadores Neumaticos Hidraulicos](C2.1_ActuadoresNeumaticosHidraulicos_VillalobosOliver.md).
+2. :book: [C2.2 Actuadores Electricos](C2.2_ActuadoresElectricos_VillalobosOliver.md).
