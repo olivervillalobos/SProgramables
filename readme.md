@@ -45,3 +45,6 @@
 3. :fire: [A2.1 Actuadores Electricos Exposicion: Servo motor SG90](A2.1_OliverVillalobos_DytechWolf.md).
 4. :book: [C2.3 Circuito Temporizador 555](C2.3_CircuitoTemporizador555_VillalobosOliver.md).
 5. :fire: [A2.2 Circuito temporizador 555 y motor eléctrico](A2.2_OliverVillalobos_DytechWolf.md).
+---
+#### Unidad 3:
+1. :book: [C3.1 ArduinoIDE SalidaDigital](C3.1_OliverVillalobos_DytechWolf.md).
