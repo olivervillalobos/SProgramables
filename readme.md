@@ -52,3 +52,4 @@
 3. :book: [C3.3 Arduino IDE Entrada Analoga Funcion Serial](C3.3_OliverVillalobos_DytechWolf.md).
 4. :book: [C3.4 Arduino IDE Entrada Salida Sensor Funcion Serial](C3.4_OliverVillalobos_DytechWolf.md).
 5. :fire: [A3.1 Circuito sensor de deteccion de objetos](A3.1_OliverVillalobos_DytechWolf.md).
+6. :fire: [A3.2 ESP32 SensorTouch](A3.2_OliverVillalobos_DytechWolf.md).
